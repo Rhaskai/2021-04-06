@@ -1,0 +1,101 @@
+body{
+    background-image: url(./7e4e0fe62b2e5e54d8fd0d1c680e0d33.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.hight{
+    color: white;
+    display: block;
+    padding-top: 15px;
+    font-size: 1.1rem;
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 40px;
+    width: 100%;
+}
+.Home{
+    margin-left: 50px;
+    margin-right: 700px;
+}
+.About, .Sklls, .Project, .Til{
+    padding-right: 100px;
+}
+.HTML{
+    position: relative;
+    left: -10%;
+    width: 85px;
+    height: 85px;
+}
+.CSS{
+    position: relative;
+    left: -10.5%;
+    top: 7px;
+    width: 100px;
+    height: 100px;
+}
+.JS, .TS{
+    position: relative;
+    width: 90px;
+    height: 90px;
+    left: -67px;
+}
+.SASS{
+    position: relative;
+    width: 100px;
+    height: 100px;
+    left: 10px;
+}
+.Angular, .React, .Vuejs{
+    position: relative;
+    margin-right: 0.5%;
+    width: 100px;
+    height: 100px;
+    left: 140px;
+}
+h1, h2{
+    color: white;
+    text-align: center;
+}
+.null{
+    padding-top: 0.8%;
+    height: 550px;
+}
+main{
+    background-color: white;
+}
+ol{
+    color: powderblue;
+    text-align: center;
+    font-size: 2rem;
+}
+.SKlist{
+    color: black;
+    margin-right: 5%;
+    margin-left: 5%;
+    text-align: center;
+}
+.PRlist{
+    color: black;
+    margin-right: 5%;
+    margin-left: 5%;
+    text-align: center;
+}
+.toll{
+    position: relative;
+    height: 600px;
+    width: 100%;
+    background-position-y: -450px;
+    background-image: url(./Ice-cave-light_3840x2160.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    color: rgba(255,255,255);
+    text-align: center;
+    font-size: 1.5rem;
+}
+.floor{
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
